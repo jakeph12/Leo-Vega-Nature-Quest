@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Sandy the Seal
+  m_EditorClassIdentifier: 
+  inId: 21
+  spMain: {fileID: 235746799, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Sandy was entangled in a fishing net in the ocean, struggling to swim
+    and at risk of drowning.
+  strStry: '"Sandy''s Sea Escape" Sandy was a playful seal who spent her days diving
+    and chasing fish in the ocean. One day, while swimming near the shore, she got
+    caught in a discarded fishing net. The more she struggled, the tighter the net
+    became, restricting her movements and threatening to drag her underwater. Sandy
+    managed to surface for air, but she was getting weaker with each attempt to free
+    herself. Fortunately, a group of fishermen spotted her struggle and called for
+    help. Rescuers arrived quickly, carefully cutting the net and freeing Sandy.
+    After her rescue, Sandy was taken to a marine sanctuary where she received care
+    and rehabilitation. Her story highlights the dangers of marine debris and the
+    importance of keeping our oceans clean.'

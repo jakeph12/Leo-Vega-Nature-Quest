@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Zara the Zebra
+  m_EditorClassIdentifier: 
+  inId: 34
+  spMain: {fileID: -905883555, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Zara was found alone on the plains after her herd was scattered by poachers,
+    leaving her vulnerable to predators.
+  strStry: '"Zara''s Lone Journey" Zara was part of a large zebra herd that roamed
+    the African savannah. One day, poachers targeted her herd, scattering the group
+    in chaos. In the confusion, Zara became separated from her family. She wandered
+    the plains alone, constantly on alert for predators. Without the protection of
+    her herd, Zara faced the harsh reality of the wild. Her stripes, once a source
+    of security among her family, now made her an easy target. After days of solitary
+    travel, she was found by a wildlife rescue team who took her to a sanctuary for
+    safety and care. Zara''s story is a reminder of the ongoing threats of poaching
+    and the importance of efforts to protect endangered species and their habitats.'

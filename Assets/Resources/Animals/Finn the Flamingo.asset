@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Finn the Flamingo
+  m_EditorClassIdentifier: 
+  inId: 31
+  spMain: {fileID: -1158733193, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Finn was found with his legs entangled in plastic waste near a polluted
+    lake, making it difficult for him to walk or wade in the water.
+  strStry: '"Finn''s Polluted Waters" Finn was a graceful flamingo who spent his
+    days wading in the clear waters of the lake. However, as pollution increased,
+    the once-pristine lake became a dumping ground for plastic waste. One day, while
+    foraging, Finn''s legs got entangled in a mass of plastic. He tried to free himself,
+    but the plastic only tightened, cutting into his legs and making it impossible
+    for him to walk or swim properly. Weak and unable to find food, Finn stood helplessly
+    by the lake''s edge. Thankfully, a group of volunteers spotted him and carefully
+    removed the plastic. Finn was taken to a bird sanctuary where his wounds were
+    treated. His story serves as a sobering reminder of the environmental impact
+    of pollution and the urgent need for wildlife conservation.'

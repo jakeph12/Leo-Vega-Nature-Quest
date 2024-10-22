@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Luna the Owl
+  m_EditorClassIdentifier: 
+  inId: 1
+  spMain: {fileID: -1498944002, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Luna got tangled in fishing line while hunting near the lake, making
+    it impossible for her to fly.
+  strStry: '"Luna''s Silent Flight" Luna, with her wide eyes and graceful flight,
+    was the queen of the night. One evening, while hunting near a tranquil lake,
+    she became entangled in a discarded fishing line. The more she struggled, the
+    tighter it became, cutting into her feathers and wings. She fell to the ground,
+    grounded and vulnerable. For days, she remained hidden, unable to hunt or escape
+    predators. Her cries went unheard in the vastness of the forest until a pair
+    of kind hands found her. Carefully, they removed the line and treated her wounds.
+    Slowly, Luna regained her strength and the confidence to fly again. Her story
+    serves as a reminder of the unseen dangers that human negligence poses to wildlife.'

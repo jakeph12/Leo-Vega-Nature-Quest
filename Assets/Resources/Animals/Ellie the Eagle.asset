@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Ellie the Eagle
+  m_EditorClassIdentifier: 
+  inId: 23
+  spMain: {fileID: -895309272, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Ellie flew into a power line, breaking her wing and losing her ability
+    to fly.
+  strStry: "\"Ellie's Skyfall\" Ellie soared through the skies, her wings spread
+    wide as she watched over her territory from above. One day, as she was diving
+    towards her nest, she struck a power line that was hidden against the bright
+    sky. The impact broke her wing, and she spiraled to the ground, crashing into
+    a nearby field. Unable to fly, Ellie lay there helpless, at risk from predators
+    and starvation. A farmer found her the next day and contacted wildlife rescuers.
+    They carefully transported Ellie to a sanctuary where her wing was treated. During
+    her long recovery, Ellie\u2019s spirit remained strong. Her story serves as a
+    reminder of the unseen dangers that human structures pose to birds of prey."

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Rocky the Squirrel
+  m_EditorClassIdentifier: 
+  inId: 5
+  spMain: {fileID: -936226917, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: 'Rocky was found with an injured tail after narrowly escaping a predator. '
+  strStry: '"Rocky''s Close Call" Rocky lived high up in the treetops, darting through
+    the branches with agility. One day, while foraging for food, he was ambushed
+    by a hawk. In his frantic escape, he fell, injuring his tail. Grounded and in
+    pain, Rocky was left vulnerable to other predators. He managed to find a hiding
+    spot under a fallen log, where he remained for days, too afraid to move. His
+    tail, crucial for balance, hung limp. A kind hiker found him and brought him
+    to the shelter. With care and patience, Rocky learned to adapt, his tail slowly
+    regaining its strength. His story reminds us of the delicate balance of nature
+    and the resilience of its creatures.'

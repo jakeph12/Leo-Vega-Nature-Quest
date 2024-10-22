@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Leo the Lion
+  m_EditorClassIdentifier: 
+  inId: 8
+  spMain: {fileID: -1924987400, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Leo was found orphaned, wandering alone in the savannah after his pride
+    was killed by poachers.
+  strStry: '"Leo''s Brave Heart" Leo was born into a majestic pride that ruled the
+    savannah. But tragedy struck when poachers attacked, leaving him alone and orphaned.
+    Too young to fend for himself, Leo wandered the plains, searching for his family.
+    His cries echoed in the emptiness of the savannah. Hungry and scared, he found
+    shelter under a bush, surviving on scraps. Days turned into weeks, and just as
+    hope began to fade, he was found by rescuers. They took him in, giving him the
+    care and protection he needed. Leo''s story is a stark reminder of the dangers
+    that poachers pose to wildlife and the importance of conservation. '

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Gizmo the Cat
+  m_EditorClassIdentifier: 
+  inId: 3
+  spMain: {fileID: 1232503250, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Gizmo was living in an abandoned building, malnourished and exposed
+    to the elements.
+  strStry: '"Gizmo''s Fight for Survival" Gizmo was a stray, born in the alleys of
+    the city. When the building she called home was abandoned, Gizmo found herself
+    alone, fighting for survival. She scoured the streets for food, often chased
+    away by humans who saw her as a nuisance. Hunger gnawed at her, and she grew
+    thin and weary. Despite her plight, Gizmo never gave up. One cold winter night,
+    she was found huddled in a corner, too weak to run. Taken in by a kind rescuer,
+    Gizmo received warmth and care for the first time. Her transformation from a
+    frightened stray to a playful companion is a testament to the resilience of animals
+    in the harshest conditions.'

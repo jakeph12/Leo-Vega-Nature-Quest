@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Penny the Penguin
+  m_EditorClassIdentifier: 
+  inId: 25
+  spMain: {fileID: -245199405, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Penny was found covered in oil after an offshore spill near her colony,
+    struggling to move and keep warm.
+  strStry: "\"Penny's Ocean Ordeal\" Penny was a happy penguin, thriving in the cold
+    waters with her colony. But one day, an offshore oil spill polluted the ocean,
+    covering everything in a thick, dark layer. Penny swam through the oily waters,
+    unaware of the danger. Soon, her feathers became coated with oil, making it impossible
+    for her to keep warm or float properly. She struggled back to shore, exhausted
+    and shivering. A rescue team arrived, finding Penny among the rocks, covered
+    in oil. They quickly transported her to a marine rescue center where she underwent
+    a lengthy cleaning process. Penny\u2019s story raises awareness about the devastating
+    impact of oil spills on marine life and the urgent need for environmental protection."

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Jack the Dolphin
+  m_EditorClassIdentifier: 
+  inId: 11
+  spMain: {fileID: -1788330846, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Jack was stranded on the shore, tangled in plastic waste and unable
+    to return to the ocean.
+  strStry: '"Jack''s Ocean Rescue" Jack was a playful dolphin who loved riding the
+    ocean waves with his pod. One day, while swimming near the coast, he got entangled
+    in plastic waste. The debris wrapped around his fins, making it impossible for
+    him to swim properly. He struggled to free himself, but his efforts only made
+    the situation worse. Exhausted, Jack was washed ashore by the tide. It was there
+    that he was found by beachgoers, struggling for breath. Rescuers were called
+    in, and they carefully cut away the plastic, freeing Jack. After receiving care,
+    Jack was finally released back into the ocean, a reminder of the dire impact
+    of ocean pollution on marine life.'

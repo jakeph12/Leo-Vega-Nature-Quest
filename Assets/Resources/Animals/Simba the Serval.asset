@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Simba the Serval
+  m_EditorClassIdentifier: 
+  inId: 33
+  spMain: {fileID: 1369117579, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Simba was rescued from the illegal exotic pet trade, where he was kept
+    in a small cage and denied proper care.
+  strStry: '"Simba''s Path to Freedom" Simba was born in the wild, a majestic serval
+    destined to roam the grasslands. However, he was captured by poachers and sold
+    into the exotic pet trade. He spent his early life confined to a small, dirty
+    cage, denied the freedom and space he needed. His natural instincts were suppressed,
+    and he became malnourished and sickly. The only world Simba knew was the metal
+    bars that confined him. During a raid on an illegal pet operation, authorities
+    discovered Simba and brought him to a wildlife sanctuary. There, he received
+    proper care and slowly began to rediscover his wild spirit. Simba''s story sheds
+    light on the cruelty of the exotic pet trade and the importance of protecting
+    wildlife from exploitation.'

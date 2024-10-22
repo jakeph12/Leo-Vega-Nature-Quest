@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Nala the Elephant
+  m_EditorClassIdentifier: 
+  inId: 9
+  spMain: {fileID: 759734849, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Nala was separated from her herd during a drought and found wandering
+    alone.
+  strStry: '"Nala''s Lonely Journey" Nala was a young elephant, always protected
+    by the strength of her herd. But during a severe drought, resources became scarce,
+    and the herd was forced to move in search of water. In the chaos, Nala got separated
+    from the group. She wandered alone through the arid landscape, her small trunk
+    searching for water and comfort. Days turned into an endless search, and Nala
+    grew weak. Just when her strength was about to fail, she was found by a rescue
+    team. They provided her with water and care, bringing her to a safe sanctuary.
+    Nala''s story is a reminder of the challenges faced by wildlife due to climate
+    change and habitat loss.'

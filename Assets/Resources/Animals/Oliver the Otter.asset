@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Oliver the Otter
+  m_EditorClassIdentifier: 
+  inId: 24
+  spMain: {fileID: -1020874023, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Oliver was saved from an illegal fur trade operation where he was kept
+    in a tiny, filthy cage.
+  strStry: '"Oliver''s New Beginning" Oliver was born in the wild, where he played
+    and swam freely with his family. One day, poachers captured him and sold him
+    to an illegal fur trade operation. There, Oliver was kept in a small, dirty cage,
+    deprived of the water and space he loved. He lost his playful spirit as the days
+    turned into weeks in captivity. But one day, the operation was raided by authorities,
+    and Oliver was rescued. Weak and traumatized, he was brought to a rehabilitation
+    center. With time, care, and patience, Oliver started to regain his playful nature.
+    His story highlights the cruelty of the fur trade and the importance of efforts
+    to protect wildlife from exploitation.'

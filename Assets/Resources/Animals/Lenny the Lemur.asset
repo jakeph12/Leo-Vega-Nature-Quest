@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Lenny the Lemur
+  m_EditorClassIdentifier: 
+  inId: 20
+  spMain: {fileID: -1154936494, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Lenny was found in a deforested area of Madagascar, his home destroyed
+    by illegal logging, leaving him with no food or shelter.
+  strStry: "\"Lenny's Lost Jungle\" Lenny lived high in the trees of Madagascar,
+    swinging from branch to branch in the dense jungle. One morning, he awoke to
+    the sound of chainsaws and the sight of falling trees. His once-lush home was
+    being destroyed by illegal loggers, stripping the forest of its life. Lenny scrambled
+    to find safety as his world was reduced to stumps and barren land. Days passed
+    with no food or shelter in sight, leaving Lenny weak and vulnerable. When conservationists
+    arrived to survey the damage, they found Lenny among the debris. They took him
+    to a sanctuary where he could find safety and care. Lenny\u2019s story reflects
+    the critical state of deforestation and its impact on species that rely on these
+    forests for survival."

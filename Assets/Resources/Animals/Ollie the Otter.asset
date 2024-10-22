@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Ollie the Otter
+  m_EditorClassIdentifier: 
+  inId: 13
+  spMain: {fileID: -1281711226, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Ollie was found in a polluted river, his fur matted with oil, making
+    it impossible for him to keep warm in the water.
+  strStry: "\"Ollie's River Struggle\" Ollie was a joyful otter who spent his days
+    swimming and playing in the river. One fateful day, a tanker spilled oil into
+    his habitat, covering the water in a slick, dark sheen. Ollie, unaware of the
+    danger, continued to swim until his fur became matted with oil. Unable to keep
+    warm, he started to shiver uncontrollably. Ollie struggled to find food as the
+    river's fish population dwindled due to the pollution. A wildlife rescue team
+    discovered Ollie in his weakened state and brought him to safety. After many
+    baths and care, Ollie\u2019s fur was finally clean, and he was able to swim and
+    play again. His story is a powerful reminder of the impact of pollution on aquatic
+    life."

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Max the Dog
+  m_EditorClassIdentifier: 
+  inId: 2
+  spMain: {fileID: 980380866, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Max was abandoned on the side of the road with no food, shelter, or
+    water.
+  strStry: '"Max''s Journey of Trust" Max was once a beloved pet, living in a warm
+    home. But one day, his owners decided they could no longer care for him. They
+    drove him to a deserted road and left him there, confused and scared. For days,
+    Max wandered along the roadside, hoping they would return. He faced hunger, thirst,
+    and the danger of speeding cars. His spirit remained strong, and he trusted that
+    someone would help him. One day, a kind rescuer found Max, offering him food
+    and a gentle hand. Slowly, Max learned to trust again, his tail wagging once
+    more. His story is a reminder of the loyalty of dogs and the responsibility we
+    have to care for them.'

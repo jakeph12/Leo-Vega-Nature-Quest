@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Ruby the Red Panda
+  m_EditorClassIdentifier: 
+  inId: 12
+  spMain: {fileID: -1917609442, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Ruby was found in a deforested area, her habitat destroyed by human
+    activity, leaving her homeless.
+  strStry: '"Ruby''s Lost Home" Ruby lived high up in the trees of a lush forest,
+    her days filled with climbing and foraging for bamboo. One day, she awoke to
+    the sound of chainsaws and the smell of smoke. Her forest home was being destroyed,
+    and with nowhere to go, Ruby wandered into an open area, confused and frightened.
+    For days, she searched for shelter, her once vibrant coat growing dull from hunger
+    and stress. It was a wildlife rescue team that finally found her, hiding in the
+    remains of what used to be her home. They brought her to a sanctuary, where Ruby
+    slowly adapted to her new surroundings. Her story raises awareness about deforestation
+    and its impact on the animals that lose their homes.'

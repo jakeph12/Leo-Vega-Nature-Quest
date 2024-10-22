@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Misty the Moose
+  m_EditorClassIdentifier: 
+  inId: 28
+  spMain: {fileID: -1594326991, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Misty was found lost and injured in the forest after becoming disoriented
+    and separated from her herd.
+  strStry: '"Misty''s Forest Adventure" Misty was a gentle giant, roaming the vast
+    forests with her herd. One winter, during a heavy snowstorm, Misty became separated
+    from the others. Disoriented and unable to find her way back, she wandered deeper
+    into the forest, her legs growing weary from the thick snow. In her search for
+    her herd, Misty slipped on an icy patch and injured her leg. She lay there, unable
+    to move, as the cold seeped into her bones. Days later, hikers found her and
+    alerted wildlife rescuers. They helped Misty to a sanctuary where she was cared
+    for and her leg treated. Misty''s story is a reminder of the challenges animals
+    face due to extreme weather and habitat changes.'

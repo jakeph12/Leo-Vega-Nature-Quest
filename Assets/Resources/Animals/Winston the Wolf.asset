@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Winston the Wolf
+  m_EditorClassIdentifier: 
+  inId: 30
+  spMain: {fileID: 135149617, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Winston was caught in an illegal hunting trap in the forest, leaving
+    him with a severe leg injury that made hunting and movement difficult.
+  strStry: '"Winston''s Forest Struggle" Winston was the leader of his pack, guiding
+    them through the dense forest in search of prey. However, one fateful night,
+    he stepped into a hidden trap set by poachers. The steel jaws closed around his
+    leg, causing a deep wound. Winston struggled, but his attempts only worsened
+    the injury. His howls of pain echoed through the forest, but his pack had to
+    move on, leaving Winston behind. Days passed as he lay there, unable to hunt
+    or move, growing weaker with each passing hour. A forest ranger finally found
+    him and carefully freed him from the trap. Winston was transported to a wildlife
+    rehabilitation center where he received the care he desperately needed. His story
+    underscores the dangers wolves face from illegal hunting practices and the necessity
+    of wildlife protection.'

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Aurora the Arctic Fox
+  m_EditorClassIdentifier: 
+  inId: 19
+  spMain: {fileID: 2096374232, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Aurora was found starving in the Arctic due to the melting ice caps,
+    struggling to find food.
+  strStry: '"Aurora''s Frozen Struggle" Aurora was a beautiful arctic fox, adapted
+    to the harsh cold of the Arctic. But as the climate warmed and the ice caps melted,
+    her hunting grounds began to shrink. The prey she relied on became scarce, and
+    Aurora found herself traveling further and further in search of food. Her once
+    thick and vibrant fur grew thin as she struggled to survive the changing environment.
+    One day, weakened by hunger, she was found by researchers studying the effects
+    of climate change. They took her to a sanctuary, where she received food, warmth,
+    and care. Aurora''s story sheds light on the challenges faced by arctic wildlife
+    in the wake of global warming.'

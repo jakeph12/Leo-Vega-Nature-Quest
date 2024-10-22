@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Benny the Bear
+  m_EditorClassIdentifier: 
+  inId: 22
+  spMain: {fileID: -1314430462, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Benny was injured and displaced by forest fires, leaving him with burns
+    and in need of urgent care.
+  strStry: "\"Benny's Escape from the Flames\" Benny was a strong and solitary bear
+    who roamed the forests freely. One summer, the forest was engulfed in a massive
+    wildfire. Flames spread rapidly, and the animals fled in panic. Benny tried to
+    escape the fire, but he was caught in a burning patch, leaving him with burns
+    on his paws and fur. Smoke filled the air, and the once-familiar forest turned
+    into a maze of ash and charred trees. Weakened and disoriented, Benny stumbled
+    into a clearing where firefighters found him. They quickly transported him to
+    a wildlife rescue center for treatment. Benny\u2019s story is a poignant reminder
+    of the impact of natural disasters on wildlife and the importance of conservation
+    efforts to protect their habitats."

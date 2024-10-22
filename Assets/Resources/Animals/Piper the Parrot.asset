@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Piper the Parrot
+  m_EditorClassIdentifier: 
+  inId: 7
+  spMain: {fileID: -385703907, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Piper was rescued from an illegal smuggling operation, kept in a tiny
+    cage.
+  strStry: '"Piper''s Voice Returns" Piper''s colors were as vibrant as her spirit.
+    But when she was captured by smugglers, her world turned dark. Forced into a
+    tiny cage with barely enough room to spread her wings, Piper''s lively chirps
+    turned to silence. Days turned into weeks, and she grew weak and scared. Her
+    beautiful feathers became dull, and her once bright eyes lost their shine. During
+    a raid, she was freed, but the road to recovery was long. Slowly, Piper began
+    to trust again, her voice returning with every passing day. She now sings freely,
+    reminding everyone of the joy that freedom brings to every living being. '

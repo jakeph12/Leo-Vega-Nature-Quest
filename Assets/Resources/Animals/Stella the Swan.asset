@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Stella the Swan
+  m_EditorClassIdentifier: 
+  inId: 15
+  spMain: {fileID: -517200033, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Stella got caught in a discarded fishing net while swimming in a polluted
+    lake, unable to free herself.
+  strStry: "\"Stella's Grace Restored\" Stella was known for her grace, gliding effortlessly
+    across the lake\u2019s surface. One morning, as she swam near the shore, she
+    became tangled in a fishing net left behind by careless fishermen. The net wrapped
+    around her wings, restricting her movement and cutting into her skin. Stella
+    struggled to break free, but every movement only tightened the net. She became
+    exhausted and started losing her strength. A passerby noticed her distress and
+    called for help. Rescuers carefully cut Stella free and brought her to safety.
+    Over time, her wounds healed, and Stella learned to trust the water again. Her
+    story highlights the dangers of pollution and carelessness in our natural environments."

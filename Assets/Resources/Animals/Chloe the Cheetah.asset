@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Chloe the Cheetah
+  m_EditorClassIdentifier: 
+  inId: 18
+  spMain: {fileID: -2098923319, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Chloe was orphaned after her mother was killed by poachers, leaving
+    her vulnerable in the savannah.
+  strStry: '"Chloe''s Silent Run" Chloe was a young cheetah, full of life and energy,
+    learning to hunt and survive in the wild. But one day, poachers took away her
+    mother, leaving Chloe alone and scared in the vast savannah. She waited for her
+    mother to return, but as days passed, hunger and fear set in. Chloe struggled
+    to find food, her speed and agility useless without the guidance of her mother.
+    Fortunately, a wildlife conservation team found her in time, bringing her to
+    a rescue center. There, Chloe learned to trust and play again, her spirit unbroken.
+    Her story serves as a stark reminder of the impact of poaching on endangered
+    species and the importance of conservation efforts.'

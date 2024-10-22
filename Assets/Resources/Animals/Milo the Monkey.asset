@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9ed86facc7b4d4795df7d6a6c52807, type: 3}
+  m_Name: Milo the Monkey
+  m_EditorClassIdentifier: 
+  inId: 14
+  spMain: {fileID: 974522708, guid: c1a72f708356ad543bd2a729e22549b8, type: 3}
+  strDanger: Milo was found in an abandoned circus, where he was kept in isolation
+    and subjected to mistreatment.
+  strStry: "\"Milo's Circus Escape\" Milo was a young monkey who spent his early
+    life in the wild, swinging from tree to tree. However, he was captured by poachers
+    and sold to a traveling circus. In the circus, Milo was kept in a small cage,
+    forced to perform tricks, and mistreated when he didn't comply. As the circus
+    moved from town to town, Milo\u2019s spirit faded. He was eventually abandoned
+    when the circus shut down. Alone and in poor health, Milo was discovered by animal
+    welfare authorities. Brought to a sanctuary, he slowly learned to trust humans
+    again, his eyes brightening with each passing day. Milo\u2019s story is a reminder
+    of the cruelty of using animals for entertainment and the importance of animal
+    welfare."
